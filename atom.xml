@@ -13,9 +13,9 @@
     <category term="python" />
     <category term="javascript" />
     <entry>
-        <id>http://yishan.blog/2023/07/26/basicConfig/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+        <id>http://yishan.blog/2023/07/26/config/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
         <title>使用hexo+github搭建个人博客</title>
-        <link rel="alternate" href="http://yishan.blog/2023/07/26/basicConfig/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+        <link rel="alternate" href="http://yishan.blog/2023/07/26/config/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
         <content type="html">&lt;p&gt;摘要：&lt;br /&gt;
 本文讲述如何使用 hexo+github 搭建属于自己的个人博客，并且配置相应的主题使自己的博客更加美观&lt;/p&gt;
 &lt;h1 id=&#34;1-概念介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-概念介绍&#34;&gt;#&lt;/a&gt; 1、概念介绍&lt;/h1&gt;
@@ -181,9 +181,9 @@
         <updated>2023-07-26T03:14:05.000Z</updated>
     </entry>
     <entry>
-        <id>http://yishan.blog/2023/07/25/mysql/MySQL/</id>
+        <id>http://yishan.blog/2023/07/25/MySQL/MySQL/</id>
         <title>mysql</title>
-        <link rel="alternate" href="http://yishan.blog/2023/07/25/mysql/MySQL/"/>
+        <link rel="alternate" href="http://yishan.blog/2023/07/25/MySQL/MySQL/"/>
         <content type="html">&lt;h1 id=&#34;基础篇&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基础篇&#34;&gt;#&lt;/a&gt; 基础篇&lt;/h1&gt;
 &lt;h2 id=&#34;通用语法及分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#通用语法及分类&#34;&gt;#&lt;/a&gt; 通用语法及分类&lt;/h2&gt;
 &lt;ul&gt;

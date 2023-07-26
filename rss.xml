@@ -16,9 +16,9 @@
         <category term="python" />
         <category term="javascript" />
         <item>
-            <guid isPermalink="true">http://yishan.blog/2023/07/26/basicConfig/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+            <guid isPermalink="true">http://yishan.blog/2023/07/26/config/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
             <title>使用hexo+github搭建个人博客</title>
-            <link>http://yishan.blog/2023/07/26/basicConfig/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+            <link>http://yishan.blog/2023/07/26/config/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
             <category term="config" scheme="http://yishan.blog/categories/config/" />
             <category term="config" scheme="http://yishan.blog/tags/config/" />
             <category term="hexo" scheme="http://yishan.blog/tags/hexo/" />
@@ -184,9 +184,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yishan.blog/2023/07/25/mysql/MySQL/</guid>
+            <guid isPermalink="true">http://yishan.blog/2023/07/25/MySQL/MySQL/</guid>
             <title>mysql</title>
-            <link>http://yishan.blog/2023/07/25/mysql/MySQL/</link>
+            <link>http://yishan.blog/2023/07/25/MySQL/MySQL/</link>
             <category term="mysql" scheme="http://yishan.blog/categories/mysql/" />
             <category term="mysql" scheme="http://yishan.blog/tags/mysql/" />
             <pubDate>Tue, 25 Jul 2023 16:57:05 +0800</pubDate>
